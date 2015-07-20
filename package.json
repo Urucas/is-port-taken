@@ -31,6 +31,8 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
+    "monocle": "^1.1.51",
+    "monocle-js": "^1.0.1",
     "q": "^1.4.1"
   }
 }
