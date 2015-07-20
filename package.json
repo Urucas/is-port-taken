@@ -1,13 +1,11 @@
 {
   "name": "is-port-taken",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if a port is being used",
   "main": "node/index.js",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha tests/* --compilers js:babel/register -t 15s",
     "build": "make clean && make node",
-    "prestart": "npm run build",
-    "start": "./bin/index"
   },
   "repository": {
     "type": "git",
