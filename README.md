@@ -1,4 +1,4 @@
-# is-port-taken
+# is-port-taken [![Build Status](https://travis-ci.org/Urucas/is-port-taken.svg)](https://travis-ci.org/Urucas/is-port-taken)
 
 Check if a port is being used
 
