@@ -1,2 +1,3 @@
 # is-port-taken
-Check if a port is being used
+
+Sync module to check if a port is being used
