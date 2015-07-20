@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Urucas/is-port-taken/issues"
   },
-  "homepage": "https://github.com/Urucas/is-port-taken"
+  "homepage": "https://github.com/Urucas/is-port-taken",
+  "devDependencies": {
+    "babel": "^5.6.23",
+    "mocha": "^2.2.5"
+  }
 }
