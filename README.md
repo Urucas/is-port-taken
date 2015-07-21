@@ -7,7 +7,7 @@ Check if a port is being used
 npm install --save is-port-taken
 ```
 
-** API **
+**API**
 ```javascript
 import taken from 'is-port-taken';
 let promise = isTaken(8009, '127.0.0.1');
